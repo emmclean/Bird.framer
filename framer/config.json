@@ -1,0 +1,22 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 720,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 1280,
+  "fullScreen" : false,
+  "deviceType" : "sony-w85Oc",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "projectId" : "F0B968B8-2A7D-4DAC-852E-3730B37DEB2E",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : false,
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}
